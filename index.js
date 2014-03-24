@@ -8,7 +8,7 @@ var fs = require('fs'),
 
 program
   .version(pkg.version)
-  .usage('prefix <file.css>')
+  .usage('somePrefix <file.css>')
   .parse(process.argv)
 
 if (program.args.length < 2) {

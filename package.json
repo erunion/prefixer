@@ -1,6 +1,6 @@
 {
   "name": "prefixer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prefix all rules in a CSS file.",
   "main": "index.js",
   "keywords": [
